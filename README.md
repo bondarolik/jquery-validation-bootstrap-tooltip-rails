@@ -30,7 +30,7 @@ In your assets pipeline (application.js) add:
 //= require jquery.validate.additional-methods
 // after those lines
 // add this:
-//= require jquery-validation.bootstrap-tooltip
+//= require jquery-validate.bootstrap-tooltip
 ```
 
 ## Contributing

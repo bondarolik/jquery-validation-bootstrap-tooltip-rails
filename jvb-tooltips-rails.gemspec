@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "jquery-validation-bootstrap-tooltip/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "jquery-validate.bootstrap-tooltip"
+  spec.name          = "jvb-tooltips-rails"
   spec.version       = JVBTooltips::VERSION
   spec.authors       = ["V.  Bondaruk"]
   spec.email         = ["slaff.b@icloud.com"]

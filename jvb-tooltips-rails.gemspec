@@ -5,7 +5,7 @@ require "jvb-tooltips/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "jvb-tooltips-rails"
-  spec.version       = Jvb::Tooltips::Rails::VERSION
+  spec.version       = JVBTooltips::VERSION
   spec.authors       = ["V.  Bondaruk"]
   spec.email         = ["slaff.b@icloud.com"]
 

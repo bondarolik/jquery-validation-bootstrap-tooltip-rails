@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "jvb-tooltips/version"
+require "jquery-validation-bootstrap-tooltip/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "jvb-tooltips-rails"
+  spec.name          = "jquery-validate.bootstrap-tooltip"
   spec.version       = JVBTooltips::VERSION
   spec.authors       = ["V.  Bondaruk"]
   spec.email         = ["slaff.b@icloud.com"]
 
   spec.summary       = %q{Replace error labels from jQuery Validation plugin with Twitter Bootstrap Tooltips}
-  spec.homepage      = "https://github.com/bondarolik/jvb-tooltips-rails.git"
+  spec.homepage      = "https://github.com/bondarolik/jquery-validation-bootstrap-tooltip-rails.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

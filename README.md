@@ -1,4 +1,4 @@
-# jqueryValidation::Bootstrap::Tooltips::Rails
+# jquery-validate.bootstrap-tooltip-rails
 
 Originally made [@Thrilleratplay](https://github.com/Thrilleratplay/jquery-validation-bootstrap-tooltip)
 
@@ -7,7 +7,7 @@ Originally made [@Thrilleratplay](https://github.com/Thrilleratplay/jquery-valid
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'jvb-tooltips-rails', git: 'git@github.com:bondarolik/jvb-tooltips-rails.git'
+gem 'jvb-tooltips-rails', git: 'git@github.com:bondarolik/jquery-validation-bootstrap-tooltip-rails.git'
 ```
 
 And then execute:
@@ -30,7 +30,7 @@ In your assets pipeline (application.js) add:
 //= require jquery.validate.additional-methods
 // after those lines
 // add this:
-//= require jvb-tooltips-rails
+//= require jquery-validation.bootstrap-tooltip
 ```
 
 ## Contributing

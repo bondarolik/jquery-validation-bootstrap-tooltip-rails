@@ -1,4 +1,4 @@
-require "jvb-tooltips/version"
+require "jquery-validation-bootstrap-tooltip/version"
 
 module JVBTooltips
   class Engine < ::Rails::Engine; end

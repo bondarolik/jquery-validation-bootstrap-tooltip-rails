@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["slaff.b@icloud.com"]
 
   spec.summary       = %q{Replace error labels from jQuery Validation plugin with Twitter Bootstrap Tooltips}
-  spec.homepage      = "https://github.com/bondarolik/jvb-tooltip-rails.git"
+  spec.homepage      = "https://github.com/bondarolik/jvb-tooltips-rails.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

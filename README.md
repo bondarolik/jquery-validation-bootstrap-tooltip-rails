@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'jvb-tooltips-rails'
+gem 'jvb-tooltips-rails', git: 'git@github.com:bondarolik/jvb-tooltips-rails.git'
 ```
 
 And then execute:

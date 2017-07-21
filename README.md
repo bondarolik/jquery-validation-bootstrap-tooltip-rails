@@ -20,7 +20,18 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In your assets pipeline (application.js) add:
+
+```javascript
+...
+//= require jquery
+//= require jquery_ujs
+//= require jquery.validate
+//= require jquery.validate.additional-methods
+// after those lines
+// add this:
+//= require image_zoomer
+```
 
 ## Development
 
